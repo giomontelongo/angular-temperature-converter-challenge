@@ -1,4 +1,4 @@
-# Angular Basic - TemperatureConverter - Hackerrank Answer
+# Angular Basic - TemperatureConverter - Tech Challenge
 
 <p>
   
