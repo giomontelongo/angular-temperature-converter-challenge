@@ -10,6 +10,11 @@
     "test": "ng test"
   },
   "private": true,
+  "author": {
+    "name": "Alvaro Castillo",
+    "email": "alvaro.castillo777@gmail.com",
+    "url": "https://alvarocastle.com"
+  },
   "dependencies": {
     "@angular/common": "~10.0.4",
     "@angular/compiler": "~10.0.4",
