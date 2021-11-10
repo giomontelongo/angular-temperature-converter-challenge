@@ -6,7 +6,7 @@
   
 <a><img src="https://travis-ci.org/davidarputharaj19/Angular-TemperatureConverter-Hackerrank.svg?branch=master" alt="Build" style="max-width:100%;"></img></a>
 
-<a href="https://snyk.io/test/github/davidarputharaj19/Angular-TemperatureConverter-Hackerrank?targetFile=package.json"><img src="https://snyk.io/test/github/davidarputharaj19/Angular-TemperatureConverter-Hackerrank/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/davidarputharaj19/Angular-TemperatureConverter-Hackerrank?targetFile=package.json" style="max-width:100%;"></a>
+<a href=""><img src="" alt="Known Vulnerabilities" data-canonical-src=" style="max-width:100%;"></a>
 
 </p>
 
