@@ -6,7 +6,6 @@
   
 <a><img src="https://travis-ci.org/davidarputharaj19/Angular-TemperatureConverter-Hackerrank.svg?branch=master" alt="Build" style="max-width:100%;"></img></a>
 
-<a href=""><img src="" alt="Known Vulnerabilities" data-canonical-src=" style="max-width:100%;"></a>
 
 </p>
 
