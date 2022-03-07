@@ -1,15 +1,16 @@
+
 <div class="form-container">
   <div class="input-wrapper">
     <div class="input-container">
       <label class="input-label">Celsius: </label>
-      <input type="number" class="input" />
+      <input type="number" class="input" [(ngModel)]="temperature.celsius" (keyup)="toConvert(1)" (change)="toConvert(1)"/>
     </div>
   </div>
 
   <div class="input-wrapper">
     <div class="input-container">
       <label class="input-label">Fahrenheit: </label>
-      <input type="number" class="input" />
+      <input type="number" class="input"  [(ngModel)]="temperature.fahrenheit" (keyup)="toConvert(0)" (change)="toConvert(0)" />
     </div>
   </div>
 </div>
